@@ -4,14 +4,16 @@ import Navbar from './Components/Navbar';
 import Firstsection from './Components/Firstsection';
 import Secondsection from './Components/Secondsection';
 import Contactwithme from './Components/Contactwithme';
+import Middlesection from './Components/Middlesection';
 
 function App() {
   return (
     <>
     <Navbar/>
     <Firstsection/>
+    <Middlesection/>
     <Secondsection/>
-    <Contactwithme/>
+    {/* <Contactwithme/> */}
     </>
   );
 }
