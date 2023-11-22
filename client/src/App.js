@@ -13,7 +13,7 @@ function App() {
     <Firstsection/>
     <Middlesection/>
     <Secondsection/>
-    {/* <Contactwithme/> */}
+    { <Contactwithme/> }
     </>
   );
 }
